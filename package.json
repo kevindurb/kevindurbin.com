@@ -1,0 +1,11 @@
+{
+  "name": "kevindurbin.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kevindurb/kevindurbin.com.git",
+  "author": "Kevin Durbin <kevindurb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@kevindurb/react-toolbox": "^1.0.0"
+  }
+}
