@@ -6,7 +6,7 @@
   "author": "Kevin Durbin <kevindurb@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@kevindurb/react-toolbox": "^2.0.0",
+    "@kevindurb/react-toolbox": "^3.0.1",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
