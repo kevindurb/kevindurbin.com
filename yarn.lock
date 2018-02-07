@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@kevindurb/react-toolbox@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@kevindurb/react-toolbox/-/react-toolbox-3.0.1.tgz#065c0e036591654460b609025beca867965af979"
+"@kevindurb/react-toolbox@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@kevindurb/react-toolbox/-/react-toolbox-3.0.2.tgz#103bcf69f05155f5f3654527c8231c7f8eb3c39a"
   dependencies:
     babel-core "^6.26.0"
     babel-loader "^7.1.2"
