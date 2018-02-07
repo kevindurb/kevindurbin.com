@@ -5,6 +5,10 @@
   "repository": "git@github.com:kevindurb/kevindurbin.com.git",
   "author": "Kevin Durbin <kevindurb@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "react-toolbox start",
+    "build": "react-toolbox build"
+  },
   "dependencies": {
     "@kevindurb/react-toolbox": "^3.0.1",
     "prop-types": "^15.6.0",
