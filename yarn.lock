@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@kevindurb/react-toolbox@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@kevindurb/react-toolbox/-/react-toolbox-3.0.2.tgz#103bcf69f05155f5f3654527c8231c7f8eb3c39a"
+"@kevindurb/react-toolbox@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@kevindurb/react-toolbox/-/react-toolbox-3.1.0.tgz#3a304100208eef0987d75c9aff88755067346f23"
   dependencies:
     babel-core "^6.26.0"
     babel-loader "^7.1.2"
@@ -13,10 +13,12 @@
     babel-preset-react "^6.24.1"
     babel-preset-stage-0 "^6.24.1"
     chalk "^2.3.0"
+    clean-webpack-plugin "^0.1.18"
     commander "^2.13.0"
     copy-webpack-plugin "^4.3.1"
     dotenv-webpack "^1.5.4"
     ejs-compiled-loader "^1.1.0"
+    find-root "^1.1.0"
     friendly-errors-webpack-plugin "^1.6.1"
     html-webpack-plugin "^2.30.1"
     static-site-generator-webpack-plugin "^3.4.1"
@@ -1324,6 +1326,12 @@ clean-css@4.1.x:
   dependencies:
     source-map "0.5.x"
 
+clean-webpack-plugin@^0.1.18:
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/clean-webpack-plugin/-/clean-webpack-plugin-0.1.18.tgz#2e2173897c76646031bff047c14b9c22c80d8c4a"
+  dependencies:
+    rimraf "^2.6.1"
+
 cliui@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/cliui/-/cliui-2.1.0.tgz#4b475760ff80264c762c3a1719032e91c7fea0d1"
@@ -2217,6 +2225,10 @@ find-cache-dir@^1.0.0:
     commondir "^1.0.1"
     make-dir "^1.0.0"
     pkg-dir "^2.0.0"
+
+find-root@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/find-root/-/find-root-1.1.0.tgz#abcfc8ba76f708c42a97b3d685b7e9450bfb9ce4"
 
 find-up@^1.0.0:
   version "1.1.2"
