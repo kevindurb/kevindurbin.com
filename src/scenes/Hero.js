@@ -18,7 +18,7 @@ class Hero extends React.PureComponent {
 
     return (
       <div className={classes.root}>
-        <div className={classes.title}>Kevin Durbin</div>
+        <div className={classes.title}>hello</div>
       </div>
     );
   }
