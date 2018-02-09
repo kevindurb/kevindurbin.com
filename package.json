@@ -10,9 +10,10 @@
     "build": "react-toolbox build"
   },
   "dependencies": {
-    "@kevindurb/react-toolbox": "^3.3.0",
+    "@kevindurb/react-toolbox": "^4.0.1",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "react-jss": "^8.3.0"
   }
 }
